@@ -1,7 +1,6 @@
 # Task-7-AI-ML
 
-# Support Vector Machine (SVM) – Binary Classification
-
+Dataset- Breast Cancer.csv
 ## Objective
 
 The objective of this project is to implement Support Vector Machine (SVM) for binary classification and evaluate its performance using different kernels and hyperparameter tuning.
