@@ -42,10 +42,5 @@ The objective of this project is to implement Support Vector Machine (SVM) for b
 * Ensured model generalization and reduced overfitting.
 
 ## Evaluation Metrics
-
 * Accuracy Score
 * Cross-validation Score
-
-## Conclusion
-
-The project demonstrates how SVM works for binary classification using different kernels. Hyperparameter tuning and cross-validation significantly improve model performance and help select the best model.
